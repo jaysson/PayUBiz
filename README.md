@@ -29,7 +29,7 @@ $params = [
 
 $gateway->purchase($params)->send()->redirect();
 ```
-Check official omniauth documentation for more
+Check official OmniPay documentation for more
 
 ## Contributing
 
